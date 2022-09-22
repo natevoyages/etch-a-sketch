@@ -6,6 +6,7 @@ body{
 }
 .header{
   height: 32px;
+  margin-bottom: 48px;
 }
 
 .content{
@@ -14,7 +15,7 @@ body{
   display: flex;
   flex-direction: column;
   background-color: white;
-  margin: 100px 100px;
+  margin-top: 50px;
 }
 
 .footer{
